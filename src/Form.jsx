@@ -8,7 +8,7 @@ export function Form() {
         email: '',
         text: '',
         password: ''
-    })
+    }) 
     const dispatch = useDispatch()
     const handleSubmit = (e) =>{
         e.preventDefault()
