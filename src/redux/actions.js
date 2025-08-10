@@ -35,7 +35,7 @@ export function createForm(email, name, password){
         type: FORM_NAME,
         data: {email, name, password}
     }
-}
+}     
 export function loaderOn() {
     return {
       type: LOADER_DISPLAY_ON
