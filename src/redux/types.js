@@ -8,8 +8,3 @@ export const FORM_NAME = 'FORM_NAME'
 export const COMMENT_LOAD = 'COMMENT_LOAD'
 export const LOADER_DISPLAY_ON = 'LOADER_DISPLAY_ON'
 export const LOADER_DISPLAY_OFF = 'LOADER_DISPLAY_OFF'
-
-
-
-
-

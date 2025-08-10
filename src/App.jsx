@@ -11,7 +11,7 @@ import { useSelector } from 'react-redux';
 function App() {
   const spin = useSelector((state) => state.appReducer.spin)
   console.log(spin);
-  //    
+  
   return (
       <div className="App">
       <div className="wrap">
